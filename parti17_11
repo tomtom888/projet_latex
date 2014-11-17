@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[OT1]{fontenc}
+\DeclareUnicodeCharacter{00A0}{ }
+\usepackage[french]{babel}
+\begin{document}
+\begin{center}
+{\Huge\textbf{Zagreb}}
+\end{center}
+\\
+\begin{flushleft}
+
+
+Zagreb (hongrois : zágráb ; italien : zagabria ; anciennement nommée en allemand : agram) est une ville et un comitat (« ville de zagreb »), capitale de la croatie. Au recensement de 2011, la ville comptait 688 163 habitants, le comitat 790 017 habitants, dont 93,14\%  de croates et la région dezagreb (le comitat « ville de zagreb » plus le comitat de zagreb) comptait 1 107 623 habitants.
+Zagreb est située au nord du pays sur les flancs de la medvednica à côté de la save à une altitude d'environ 122 m au-dessus du niveau de la mer. Sa situation géographique favorable dans le sud-ouest de la plaine de pannonie qui s'étend des alpes aux alpes dinariques et à la mer adriatique la place sur les axes de communication entre l'europe centrale et la mer adriatique.
+Les interconnexions de transports, la concentration des industrie, de la recherche scientifique et industrielle font de zagreb le centre économique de la croatie. Zagreb est également le siège du gouvernement, des corps administratifs et de presque tous les ministères.
+
+
+\end{flushleft}
+\newpage
+\tableofcontents
+
+\section{Heraldique}
+
+
+\section{Histoire}
+
+
+
+\section{Demographie}
+
+
+\section{Geographie}
+\subsection{Climat}
+
+\section{Economie}
+
+\section{Administration}
+\subsection{Quartiers}
+
+\section{Culture et tourisme}
+
+\section{Sports}
+
+\section{Jumelages}
+
+\section{Galerie}
+
+
+
+
+
+
+\end{document}
